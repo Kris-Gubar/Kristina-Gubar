@@ -18,6 +18,7 @@ Tools and Programs:
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+ <img src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png"title="confluence" alt="confluence" width="40" height="40"/>&nbsp
 </div>
 
 
