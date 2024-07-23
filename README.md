@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/Kris-Gubar/Kristina-Gubar/master/assets/Top-Call-Center-Quality-Assurance-Software-in-2022-Image-1024x575.webp)
+![Header](https://github.com/Kris-Gubar/Kristina-Gubar/blob/master/assets/Kris%20(2).jpg)
 # Kristina-Gubar
 About me: I'm QA Engineer and I have been testing for 1.5 years
 
