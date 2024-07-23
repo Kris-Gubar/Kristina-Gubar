@@ -1,10 +1,10 @@
 ![Header](https://github.com/Kris-Gubar/Kristina-Gubar/blob/master/assets/Kris%20(2).jpg)
-# Kristina-Gubar
-About me: Hi 👋, I'm a QA Engineer and I have been testing for 1.5 years
-
-Test Documentation
-
-Tools and Programs:
+<br></br>
+Hi 👋, I'm a QA Engineer and I have been testing for 1.5 years. Here you can find a little more information about me and my skills. 
+---
+### 📁 Test Documentations
+---
+### 🛠 Tools and Programs:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
@@ -21,9 +21,9 @@ Tools and Programs:
  <img src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png"title="confluence" alt="confluence" width="40" height="40"/>&nbsp
 </div>
 
-
-My CV
-
+---
+### ✏️ My CV
+---
  ### 🤝 Connect with me:
   <div id="badges">
     <a href="https://www.linkedin.com/in/kristina-gubar-1990/" target="_blank">
