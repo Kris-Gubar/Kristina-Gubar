@@ -1,6 +1,6 @@
 ![Header](https://github.com/Kris-Gubar/Kristina-Gubar/blob/master/assets/Kris%20(2).jpg)
 # Kristina-Gubar
-About me: I'm QA Engineer and I have been testing for 1.5 years
+About me: Hi 👋, I'm a QA Engineer and I have been testing for 1.5 years
 
 Test Documentation
 
@@ -26,7 +26,7 @@ My CV
 
  ### 🤝 Connect with me:
   <div id="badges">
-    <a href="www.linkedin.com/in/kristina-gubar-1990" target="_blank">
+    <a href="https://www.linkedin.com/in/kristina-gubar-1990/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/Kris_Gubar" target="_blank">
