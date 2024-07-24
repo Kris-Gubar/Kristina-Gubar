@@ -6,6 +6,8 @@ Hi 👋, I'm a QA Engineer and I have been testing for 1.5 years. Here you can f
 ### 💾[Project 1](https://docs.google.com/spreadsheets/d/16-kgYxnadw77rC0QVNZrJWHQuWbDbwPQWRY9nwD3YIY/edit?usp=sharing)
 
 ### 💾[Project 2](https://docs.google.com/spreadsheets/d/16EWrxVxDOWXRZ_2QQvZhk1M9bj5IxG1rplQqjVIRQYc/edit?usp=sharing)
+
+### 💾[Postman Collection](https://github.com/Kris-Gubar/Kristina-Gubar/blob/master/assets/Nasa.postman_collection.json)
 ---
 ### 🛠 Tools and Programs:
 <div>
