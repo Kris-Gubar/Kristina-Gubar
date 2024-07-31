@@ -1,6 +1,6 @@
 ![Header](https://github.com/Kris-Gubar/Kristina-Gubar/blob/master/assets/Kris%20(2).jpg)
 <br></br>
-Hi 👋, I'm a QA Engineer and I have been testing for 1.5 years. Here you can find a little more information about me and my skills. 
+Hi 👋, I'm a QA Engineer and I have been testing for 1.5 years of real commercial experience. Here you can find a little more information about me and my skills. 
 ---
 ### 📁 Test Documentations
 ### 💾[Project 1](https://docs.google.com/spreadsheets/d/16-kgYxnadw77rC0QVNZrJWHQuWbDbwPQWRY9nwD3YIY/edit?usp=sharing)
@@ -27,7 +27,7 @@ Hi 👋, I'm a QA Engineer and I have been testing for 1.5 years. Here you can f
 </div>
 
 ---
-### ✏️ My CV
+### ✏️ [My CV](https://drive.google.com/file/d/1tDrEkNjLapbQom28I_yopGKBDth45Fsc/view?usp=sharing)
 ---
  ### 🤝 Connect with me:
   <div id="badges">
